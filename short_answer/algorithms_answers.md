@@ -5,7 +5,7 @@
 a) The time complexity is O(n) because the loop will run a linear number of times in relation to the input.
 
 
-b) The time complexity is O(n^2) because there is a loop nested inside of another loop.
+b) The time complexity is O(n log n) because there is a loop nested inside of another loop. J is being squared.
 
 
 c) The time complexity is O(n) because the recursive function will run a linear number of times in relation to the input.
